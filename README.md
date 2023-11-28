@@ -7,14 +7,14 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 
 | Categoria / Category | Atalho / Link                       | Classificação etária / Age Rating |
 |----------------------|-------------------------------------|-----------------------------------|
-| Educação / Education  | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
-| Educação / Education  | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
-| Jogos / Gaming        | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
-| Jogos / Gaming        | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
-| Culinária / Culinary  | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
-| Culinária / Culinary  | https://youtube.com/@ReceitasdoParaiso      | Desconhecida / Unknown            |
-| Desporto / Sports     | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
-
+| Educação / Education      | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
+| Educação / Education      | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
+| Jogos / Gaming            | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
+| Jogos / Gaming            | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
+| Culinária / Culinary      | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
+| Culinária / Culinary      | https://youtube.com/@ReceitasdoParaiso      | Desconhecida / Unknown            |
+| Desporto / Sports         | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
+| Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
 
 <br>
 <br>
