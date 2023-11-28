@@ -1,4 +1,4 @@
-# PTptIndex Índice da Língua Portuguesa
+# PTptIndex Índice de conteúdos de Língua Portuguesa
 <br>
 Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <br>
 /Curated list of original content in European Portuguese (PT-PT) 
