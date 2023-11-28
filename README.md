@@ -1,7 +1,7 @@
 # PTptIndex
 <br>
 Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <br>
-Curated list of original content in European Portuguese (PT-PT) 
+/Curated list of original content in European Portuguese (PT-PT) 
 <br>
 <br>
 
@@ -18,7 +18,9 @@ Curated list of original content in European Portuguese (PT-PT)
 <br>
 <br>
 
-Se queres contribuir e não sabes utilizar o github, podes enviar um mail para github+ptpt@norsigma.com
+Se queres contribuir e não sabes utilizar o github, podes enviar uma mensagem para github+ptpt@norsigma.com
+<br>
+/If you want to contribute and don't know how to use GitHub, you can send a message to github+ptpt@norsigma.com.
 
 <br>
 <br>
