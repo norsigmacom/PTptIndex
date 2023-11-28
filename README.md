@@ -7,13 +7,13 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 
 | Categoria / Category | Atalho / Link                       | Classificação etária / Age Rating |
 |----------------------|-------------------------------------|-----------------------------------|
-| Educação / Education  | https://www.youtube.com/@MathGurl           | Desconhecida / Unknown            |
-| Educação / Education  | https://www.youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
-| Jogos / Gaming        | https://www.youtube.com/@_NETUP             | Desconhecida / Unknown            |
-| Jogos / Gaming        | https://www.youtube.com/@RicFazeres         | Desconhecida / Unknown            |
-| Culinária / Culinary  | https://www.youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
+| Educação / Education  | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
+| Educação / Education  | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
+| Jogos / Gaming        | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
+| Jogos / Gaming        | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
+| Culinária / Culinary  | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
 | Culinária / Culinary  | https://youtube.com/@ReceitasdoParaiso      | Desconhecida / Unknown            |
-| Desporto / Sports     | https://www.youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
+| Desporto / Sports     | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
 
 
 <br>
