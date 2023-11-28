@@ -15,7 +15,10 @@ Curated list of original content in European Portuguese (PT-PT)
 
 <br>
 <br>
+
 Se queres contribuir e não sabes utilizar o github, podes enviar um mail para github+ptpt@norsigma.com
+
+<br>
 <br>
 Utilize o seguinte para construct tabela / Use the following to build the table:
 https://www.tablesgenerator.com/markdown_tables
