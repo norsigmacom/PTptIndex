@@ -11,6 +11,7 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Educação / Education      | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
 | Educação / Education      | https://youtube.com/@KhanAcademyPortugal | Desconhecida / Unknown            |
 | Educação / Education      | https://youtube.com/@AsaladoGirassol  | Desconhecida / Unknown            |
+| Educação / Education      | https://youtube.com/@SimaoSuperCoelho  | Desconhecida / Unknown            |
 | Música / Music            | https://youtube.com/@TucantarMusicaInfantil  | Desconhecida / Unknown            |
 | Jogos / Gaming            | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
 | Jogos / Gaming            | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
