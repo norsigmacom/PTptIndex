@@ -1,57 +1,43 @@
-# PTptIndex Índice de conteúdos de Língua Portuguesa
-<br>
-Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <br>
-/Curated list of original content in European Portuguese (PT-PT) 
-<br>
-<br>
+# Lista de Canais do YouTube em Português de Portugal
 
-| Categoria / Category | Atalho / Link                       | Classificação etária / Age Rating |
-|----------------------|-------------------------------------|-----------------------------------|
-| Educação / Education      | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
-| Educação / Education      | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
-| Educação / Education      | https://youtube.com/@AsaladoGirassol  | Desconhecida / Unknown            |
-| Música / Music            | https://youtube.com/@TucantarMusicaInfantil  | Desconhecida / Unknown            |
-| Jogos / Gaming            | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
-| Jogos / Gaming            | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
-| Culinária / Culinary      | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
-| Culinária / Culinary      | https://youtube.com/@ReceitasdoParaiso      | Desconhecida / Unknown            |
-| Desporto / Sports         | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
-| Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
+Esta é uma lista de alguns canais populares do YouTube em português de Portugal. Sinta-se à vontade para explorar e descobrir conteúdos interessantes!
 
-<br>
+## Entretenimento
 
-<br>
-<h2>Livros Open Source / Open Source Books</h2>
+1. **[Nome do Canal 1](link_do_canal_1)** - Breve descrição do conteúdo do canal.
+2. **[Nome do Canal 2](link_do_canal_2)** - Breve descrição do conteúdo do canal.
+3. **[Nome do Canal 3](link_do_canal_3)** - Breve descrição do conteúdo do canal.
 
-em breve... / soon...
+## Educação
 
-<br>
+1. **[Canal Educação 1](link_canal_educacao_1)** - Conteúdo educacional sobre [tema específico].
+2. **[Canal Educação 2](link_canal_educacao_2)** - Conteúdo educacional sobre [tema específico].
+3. **[Canal Educação 3](link_canal_educacao_3)** - Conteúdo educacional sobre [tema específico].
 
-Se queres contribuir e não sabes utilizar o github, podes enviar uma mensagem para github+ptpt@norsigma.com
-<br>
+## Tecnologia
 
-/If you want to contribute and don't know how to use GitHub, you can send a message to github+ptpt@norsigma.com
+1. **[Tech Channel 1](link_tech_channel_1)** - Notícias e análises de tecnologia.
+2. **[Tech Channel 2](link_tech_channel_2)** - Tutoriais e dicas sobre gadgets e software.
+3. **[Tech Channel 3](link_tech_channel_3)** - Reviews de produtos tecnológicos.
 
-<br>
-<h2>Razão de Existir / Purpose</h2>
+## Estilo de Vida
 
-Caros amantes de Portugal,
+1. **[Lifestyle Channel 1](link_lifestyle_channel_1)** - Dicas de estilo de vida saudável.
+2. **[Lifestyle Channel 2](link_lifestyle_channel_2)** - Viagens e aventuras pelo mundo.
+3. **[Lifestyle Channel 3](link_lifestyle_channel_3)** - Receitas e culinária.
 
-É com grande entusiasmo que partilhamos este espaço que agora se torna o epicentro do nosso saber coletivo. Este repositório é mais do que uma simples compilação de conteúdos; é o testemunho da nossa dedicação em preservar e partilhar o conhecimento em Português de Portugal.
+## Jogos
 
-Cada índice representa uma porta aberta para novas descobertas, um convite para explorar as vastas riquezas da nossa língua e cultura. Este é um espaço onde as palavras ganham vida, onde o saber se entrelaça e cresce, impulsionado pelo compromisso que partilhamos de elevar o nosso entendimento comum.
+1. **[Gaming Channel 1](link_gaming_channel_1)** - Gameplay e análises de jogos.
+2. **[Gaming Channel 2](link_gaming_channel_2)** - Novidades e curiosidades sobre o mundo dos jogos.
+3. **[Gaming Channel 3](link_gaming_channel_3)** - Streams ao vivo e interação com a comunidade.
 
-Cada contribuição, por mais modesta que possa parecer, é uma peça valiosa neste mosaico de conhecimento. Juntos, estamos a construir um legado que transcende fronteiras e liga mentes. Cada linha de código, cada documento partilhado é um passo em direção a um futuro onde o saber é acessível a todos.
+## Como Contribuir
 
-Sabemos que um certo monopólio ignorou o direito universal à Língua, decidiu que um certo tipo de Português é mais importante que o outro. Mas aqui estamos como o último reduto de defesa dos nossos direitos, mais que um algoritmo cativado pela quantidade, somos pessoas à procura de qualidade.
+Se  conhece algum canal interessante que não está listado aqui, sinta-se à vontade para contribuir! Basta seguir estas etapas:
 
-À medida que navegamos por este repositório, recordemos a importância do nosso trabalho. Cada arquivo é uma oportunidade de inspirar, de educar, de criar pontes entre o que sabemos e o que estamos prestes a descobrir. Sejamos catalisadores do conhecimento, fomentando uma comunidade onde a colaboração é a chave que desbloqueia novos horizontes.
+1. Faça um fork deste repositório.
+2. Adicione o canal à categoria apropriada com o formato: `**[Nome do Canal](link_do_canal)** - Breve descrição do conteúdo do canal.`
+3. Envie um pull request.
 
-Vamos continuar a adicionar capítulos a esta história, aprofundando o nosso entendimento e fortalecendo a riqueza do nosso idioma. Unidos, somos a força que molda o futuro do conhecimento em Português de Portugal.
-
-Obrigado pela vossa dedicação e empenho. Juntos, continuaremos a escrever esta narrativa de sabedoria partilhada.
-
-<h2>Notas / Notes</h2>
-<br>
-Utilize o seguinte para construct tabela / Use the following to build the table:
-https://www.tablesgenerator.com/markdown_tables
+Obrigado por contribuir para tornar esta lista mais abrangente e útil!
