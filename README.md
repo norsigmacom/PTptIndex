@@ -18,6 +18,8 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Culinária / Culinary      | https://youtube.com/@ChefeJamon      | Desconhecida / Unknown            |
 | Desporto / Sports         | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
 | Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
+| Comédia / Comedy          | https://youtube.com/@ClasseMediaBaixa       | Desconhecida / Unknown            |
+
 
 <br>
 
