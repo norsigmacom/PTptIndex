@@ -1,5 +1,6 @@
 # PTptIndex
-Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) Curated list of original content in European Portuguese (PT-PT) 
+Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) 
+Curated list of original content in European Portuguese (PT-PT) 
 
 
 | Categoria / Category | Atalho / Link                       | Classificação etária / Age Rating |
