@@ -15,6 +15,7 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Jogos / Gaming            | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
 | Culinária / Culinary      | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
 | Culinária / Culinary      | https://youtube.com/@ReceitasdoParaiso      | Desconhecida / Unknown            |
+| Culinária / Culinary      | https://youtube.com/@ChefeJamon      | Desconhecida / Unknown            |
 | Desporto / Sports         | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
 | Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
 
