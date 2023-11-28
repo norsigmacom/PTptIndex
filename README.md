@@ -9,6 +9,8 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 |----------------------|-------------------------------------|-----------------------------------|
 | Educação / Education      | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
 | Educação / Education      | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
+| Educação / Education      | https://youtube.com/@AsaladoGirassol  | Desconhecida / Unknown            |
+| Música / Music            | https://youtube.com/@TucantarMusicaInfantil  | Desconhecida / Unknown            |
 | Jogos / Gaming            | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
 | Jogos / Gaming            | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
 | Culinária / Culinary      | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
@@ -17,6 +19,12 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
 
 <br>
+
+<br>
+<h2>Livros Open Source / Open Source Books</h2>
+
+em breve... / soon...
+
 <br>
 
 Se queres contribuir e não sabes utilizar o github, podes enviar uma mensagem para github+ptpt@norsigma.com
