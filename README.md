@@ -20,6 +20,8 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Desporto / Sports         | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
 | Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
 | Comédia / Comedy          | https://youtube.com/@ClasseMediaBaixa       | Desconhecida / Unknown            |
+| Notícias / News        | https://youtube.com/@FalaPortugal       | Desconhecida / Unknown            |
+
 
 <br>
 
