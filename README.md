@@ -49,11 +49,18 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 
 
 <br>
+<h2>Secção Pais</h2>
+a pedido de muitas familias segue uma lista de conteudos youtube seguros para toda a família e na língua que temos o direito de ensinar aos nossos filhos !
+<br><br>
 
-Se queres contribuir e não sabes utilizar o github, podes enviar uma mensagem para github+ptpt@norsigma.com
-<br>
-
-/If you want to contribute and don't know how to use GitHub, you can send a message to github+ptpt@norsigma.com
+| Categoria / Category           | Atalho / Link                                                                                            | Classificação etária / Age Rating |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Entretenimento / Entertainment | [https://www.youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
+| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
+| Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
+                               |
 
 <br>
 <h2>Razão de Existir / Purpose</h2>
