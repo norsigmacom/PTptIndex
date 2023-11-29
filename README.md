@@ -12,24 +12,30 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 ---> https://forms.gle/XBWPfNAEJPAQ6JwX7
 <br><br>
 
-| Categoria / Category | Atalho / Link                       | Classificação etária / Age Rating |
-|----------------------|-------------------------------------|-----------------------------------|
-| Educação / Education      | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
-| Educação / Education      | https://youtube.com/@PortugueseWithLeo  | Desconhecida / Unknown            |
-| Educação / Education      | https://youtube.com/@KhanAcademyPortugal | Desconhecida / Unknown            |
-| Educação / Education      | https://youtube.com/@AsaladoGirassol  | Desconhecida / Unknown            |
-| Educação / Education      | https://youtube.com/@SimaoSuperCoelho  | Desconhecida / Unknown            |
-| Música / Music            | https://youtube.com/@TucantarMusicaInfantil  | Desconhecida / Unknown            |
-| Jogos / Gaming            | https://youtube.com/@_NETUP             | Desconhecida / Unknown            |
-| Jogos / Gaming            | https://youtube.com/@RicFazeres         | Desconhecida / Unknown            |
-| Culinária / Culinary      | https://youtube.com/@TuganaCozinha      | Desconhecida / Unknown            |
-| Culinária / Culinary      | https://youtube.com/@ReceitasdoParaiso      | Desconhecida / Unknown            |
-| Culinária / Culinary      | https://youtube.com/@ChefeJamon      | Desconhecida / Unknown            |
-| Desporto / Sports         | https://youtube.com/@BrunoMarinho       | Desconhecida / Unknown            |
-| Desporto / Sports         | https://youtube.com/@ProjetoPedal       | Desconhecida / Unknown            |
-| Tecnologia / Technology   | https://youtube.com/@JotaPombo       | Desconhecida / Unknown            |
-| Comédia / Comedy          | https://youtube.com/@ClasseMediaBaixa       | Desconhecida / Unknown            |
-| Notícias / News        | https://youtube.com/@FalaPortugal       | Desconhecida / Unknown            |
+| Categoria / Category           | Atalho / Link                                                                                            | Classificação etária / Age Rating |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Educação / Education           | [https://www.youtube.com/@Radiocomercial](https://www.youtube.com/@Radiocomercial)                       |                                   |
+| Entretenimento / Entertainment | [https://www.youtube.com/@rtp](https://www.youtube.com/@rtp)                                             |                                   |
+| History                        | [https://www.youtube.com/@historiadeportugaljhs3389](https://www.youtube.com/@historiadeportugaljhs3389) |                                   |
+| Entretenimento / Entertainment | [https://www.youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
+| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Educação / Education           | [https://youtube.com/@MathGurl](https://youtube.com/@MathGurl)                                           |                                   |
+| Educação / Education           | [https://youtube.com/@PortugueseWithLeo](https://youtube.com/@PortugueseWithLeo)                         |                                   |
+| Educação / Education           | [https://youtube.com/@KhanAcademyPortugal](https://youtube.com/@KhanAcademyPortugal)                     |                                   |
+| Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
+| Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
+| Música / Music                 | [https://youtube.com/@TucantarMusicaInfantil](https://youtube.com/@TucantarMusicaInfantil)               |                                   |
+| Jogos / Gaming                 | [https://youtube.com/@_NETUP](https://youtube.com/@_NETUP)                                               |                                   |
+| Jogos / Gaming                 | [https://youtube.com/@RicFazeres](https://youtube.com/@RicFazeres)                                       |                                   |
+| Culinária / Culinary           | [https://youtube.com/@TuganaCozinha](https://youtube.com/@TuganaCozinha)                                 |                                   |
+| Culinária / Culinary           | [https://youtube.com/@ReceitasdoParaiso](https://youtube.com/@ReceitasdoParaiso)                         |                                   |
+| Culinária / Culinary           | [https://youtube.com/@ChefeJamon](https://youtube.com/@ChefeJamon)                                       |                                   |
+| Desporto / Sports              | [https://youtube.com/@BrunoMarinho](https://youtube.com/@BrunoMarinho)                                   |                                   |
+| Desporto / Sports              | [https://youtube.com/@ProjetoPedal](https://youtube.com/@ProjetoPedal)                                   |                                   |
+| Tecnologia / Technology        | [https://youtube.com/@JotaPombo](https://youtube.com/@JotaPombo)                                         |                                   |
+| Comédia / Comedy               | [https://youtube.com/@ClasseMediaBaixa](https://youtube.com/@ClasseMediaBaixa)                           |                                   |
+| Notícias / News                | [https://youtube.com/@FalaPortugal](https://youtube.com/@FalaPortugal)                                   |
 
 
 <br>
