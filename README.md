@@ -43,7 +43,10 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 <br>
 <h2>Livros Open Source / Open Source Books</h2>
 
-em breve... / soon...
+| Titulo          | Atalho / Link                                                                                            | Classificação etária / Age Rating |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Os Lusíadas              | https://www.gutenberg.org/cache/epub/3333/pg3333-images.html                                       |
+
 
 <br>
 
