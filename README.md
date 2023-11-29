@@ -5,7 +5,7 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 <br>
 <br>
 
-#NOVO !  agora podes contribuir mais facilmente com este formulário muito rápido ! /#NEW ! now you can contribute with this fast form !
+#NOVO !  agora podes contribuir mais facilmente com este formulário muito rápido, não é preciso criar conta  ! /#NEW ! now you can contribute with this fast form, no need to create account !
 
  
 
@@ -73,6 +73,7 @@ Sabemos que um certo monopólio ignorou o direito universal à Língua, decidiu 
 Vamos continuar a adicionar capítulos a esta história, aprofundando o nosso entendimento e fortalecendo a riqueza do nosso idioma. Unidos, somos a força que molda o futuro do conhecimento em Português de Portugal.
 
 Obrigado pela vossa dedicação e empenho. Juntos, continuaremos a escrever esta narrativa de sabedoria partilhada.
+
 
 <h2>Notas / Notes</h2>
 <br>
