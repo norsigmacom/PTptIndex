@@ -60,7 +60,7 @@ a pedido de muitas familias segue uma lista de conteudos youtube seguros para to
 | Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
 | Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
-                               |
+                               
 
 <br>
 <h2>Razão de Existir / Purpose</h2>
