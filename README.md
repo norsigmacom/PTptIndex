@@ -5,6 +5,13 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 <br>
 <br>
 
+#NOVO !  agora podes contribuir mais facilmente com este formulário muito rápido ! /#NEW ! now you can contribute with this fast form !
+
+ 
+
+---> https://forms.gle/XBWPfNAEJPAQ6JwX7
+<br><br>
+
 | Categoria / Category | Atalho / Link                       | Classificação etária / Age Rating |
 |----------------------|-------------------------------------|-----------------------------------|
 | Educação / Education      | https://youtube.com/@MathGurl           | Desconhecida / Unknown            |
