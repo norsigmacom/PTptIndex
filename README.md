@@ -60,5 +60,6 @@ Obrigado pela vossa dedicação e empenho. Juntos, continuaremos a escrever esta
 
 <h2>Notas / Notes</h2>
 <br>
-Utilize o seguinte para construct tabela / Use the following to build the table:
-https://www.tablesgenerator.com/markdown_tables
+Queres contribuir ? Podes também juntar-te ao nosso servidor Discord ! / Do you want to contribute? You can also join us at our discord server!
+
+https://discord.gg/89B6PzM8
