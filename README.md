@@ -14,12 +14,12 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 
 | Categoria / Category           | Atalho / Link                                                                                            | Classificação etária / Age Rating |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
-| Educação / Education           | [https://www.youtube.com/@Radiocomercial](https://www.youtube.com/@Radiocomercial)                       |                                   |
-| Entretenimento / Entertainment | [https://www.youtube.com/@rtp](https://www.youtube.com/@rtp)                                             |                                   |
-| História / History             | [https://www.youtube.com/@historiadeportugaljhs3389](https://www.youtube.com/@historiadeportugaljhs3389) |                                   |
-| Entretenimento / Entertainment | [https://www.youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
-| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Educação / Education           | [https://youtube.com/@Radiocomercial](https://www.youtube.com/@Radiocomercial)                       |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@rtp](https://www.youtube.com/@rtp)                                             |                                   |
+| História / History             | [https://youtube.com/@historiadeportugaljhs3389](https://www.youtube.com/@historiadeportugaljhs3389) |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://youtube.com/@MathGurl](https://youtube.com/@MathGurl)                                           |                                   |
 | Educação / Education           | [https://youtube.com/@PortugueseWithLeo](https://youtube.com/@PortugueseWithLeo)                         |                                   |
 | Educação / Education           | [https://youtube.com/@KhanAcademyPortugal](https://youtube.com/@KhanAcademyPortugal)                     |                                   |
@@ -55,9 +55,9 @@ a pedido de muitas familias segue uma lista de conteudos youtube seguros para to
 
 | Categoria / Category           | Atalho / Link                                                                                            | Classificação etária / Age Rating |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
-| Entretenimento / Entertainment | [https://www.youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
-| Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
 | Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
                                
