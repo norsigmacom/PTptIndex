@@ -17,7 +17,7 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://www.youtube.com/@Radiocomercial](https://www.youtube.com/@Radiocomercial)                       |                                   |
 | Entretenimento / Entertainment | [https://www.youtube.com/@rtp](https://www.youtube.com/@rtp)                                             |                                   |
-| History                        | [https://www.youtube.com/@historiadeportugaljhs3389](https://www.youtube.com/@historiadeportugaljhs3389) |                                   |
+| História / History             | [https://www.youtube.com/@historiadeportugaljhs3389](https://www.youtube.com/@historiadeportugaljhs3389) |                                   |
 | Entretenimento / Entertainment | [https://www.youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
 | Entretenimento / Entertainment | [https://www.youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://youtube.com/@MathGurl](https://youtube.com/@MathGurl)                                           |                                   |
