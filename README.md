@@ -36,7 +36,8 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Tecnologia / Technology        | [https://youtube.com/@JotaPombo](https://youtube.com/@JotaPombo)                                         |                                   |
 | Comédia / Comedy               | [https://youtube.com/@ClasseMediaBaixa](https://youtube.com/@ClasseMediaBaixa)                           |                                   |
 | Notícias / News                | [https://youtube.com/@FalaPortugal](https://youtube.com/@FalaPortugal)                                   |
-
+| Desporto / Sports                  | https://youtube.com/@ociclistaimprovavel                                   |
+| Educação / Education               | https://youtube.com/@conta.me_uma_historia                                 |
 
 <br>
 
@@ -60,6 +61,7 @@ a pedido de muitas familias segue uma lista de conteudos youtube seguros para to
 | Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
 | Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
+| Educação / Education               | https://youtube.com/@conta.me_uma_historia                                 |
                                
 
 <br>
