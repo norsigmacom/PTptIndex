@@ -88,4 +88,5 @@ Obrigado pela vossa dedicação e empenho. Juntos, continuaremos a escrever esta
 <br>
 Queres contribuir ? Podes também juntar-te ao nosso servidor Discord ! / Do you want to contribute? You can also join us at our discord server!
 
-https://discord.gg/89B6PzM8
+https://discord.gg/nSqMt4KGzH
+
