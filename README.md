@@ -14,6 +14,8 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 
 | Categoria / Category           | Atalho / Link                                                                                            | Classificação etária / Age Rating |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Entretenimento / Entertainment | [https://youtube.com/@joana_perez](https://www.youtube.com/@joana_perez)                                 |                                   |
+| Entretenimento / Entertainment | [https://youtube.com/@cineblogpt](https://www.youtube.com/@cineblogpt)                                 |                                   |
 | Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
 | Educação / Education           | [https://youtube.com/@Radiocomercial](https://www.youtube.com/@Radiocomercial)                       |                                   |
 | Entretenimento / Entertainment | [https://youtube.com/@rtp](https://www.youtube.com/@rtp)                                             |                                   |
