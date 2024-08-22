@@ -14,44 +14,80 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 
 | Categoria / Category           | Atalho / Link                                                                                            | Classificação etária / Age Rating |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| Entretenimento / Entertainment | [https://youtube.com/@joana_perez](https://www.youtube.com/@joana_perez)                                 |                                   |
-| Entretenimento / Entertainment | [https://youtube.com/@cineblogpt](https://www.youtube.com/@cineblogpt)                                 |                                   |
-| Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
-| Educação / Education           | [https://youtube.com/@Radiocomercial](https://www.youtube.com/@Radiocomercial)                       |                                   |
-| Entretenimento / Entertainment | [https://youtube.com/@rtp](https://www.youtube.com/@rtp)                                             |                                   |
-| História / History             | [https://youtube.com/@historiadeportugaljhs3389](https://www.youtube.com/@historiadeportugaljhs3389) |                                   |
-| Entretenimento / Entertainment | [https://youtube.com/@CanalPandaPortugal](https://www.youtube.com/@CanalPandaPortugal)               |                                   |
-| Entretenimento / Entertainment | [https://youtube.com/@rtpzigzag](https://www.youtube.com/@rtpzigzag)                                 |                                   |
-| Educação / Education           | [https://youtube.com/@MathGurl](https://youtube.com/@MathGurl)                                           |                                   |
-| Educação / Education           | [https://youtube.com/@PortugueseWithLeo](https://youtube.com/@PortugueseWithLeo)                         |                                   |
-| Educação / Education           | [https://youtube.com/@KhanAcademyPortugal](https://youtube.com/@KhanAcademyPortugal)                     |                                   |
-| Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
-| Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
-| Música / Music                 | [https://youtube.com/@TucantarMusicaInfantil](https://youtube.com/@TucantarMusicaInfantil)               |                                   |
-| Jogos / Gaming                 | [https://youtube.com/@_NETUP](https://youtube.com/@_NETUP)                                               |                                   |
-| Jogos / Gaming                 | [https://youtube.com/@RicFazeres](https://youtube.com/@RicFazeres)                                       |                                   |
-| Culinária / Culinary           | [https://youtube.com/@TuganaCozinha](https://youtube.com/@TuganaCozinha)                                 |                                   |
-| Culinária / Culinary           | [https://youtube.com/@ReceitasdoParaiso](https://youtube.com/@ReceitasdoParaiso)                         |                                   |
-| Culinária / Culinary           | [https://youtube.com/@ChefeJamon](https://youtube.com/@ChefeJamon)                                       |                                   |
-| Desporto / Sports              | [https://youtube.com/@BrunoMarinho](https://youtube.com/@BrunoMarinho)                                   |                                   |
-| Desporto / Sports              | [https://youtube.com/@ProjetoPedal](https://youtube.com/@ProjetoPedal)                                   |                                   |
-| Tecnologia / Technology        | [https://youtube.com/@JotaPombo](https://youtube.com/@JotaPombo)                                         |                                   |
-| Comédia / Comedy               | [https://youtube.com/@ClasseMediaBaixa](https://youtube.com/@ClasseMediaBaixa)                           |                                   |
-| Notícias / News                | [https://youtube.com/@FalaPortugal](https://youtube.com/@FalaPortugal)                                   |
-| Desporto / Sports                  | https://youtube.com/@ociclistaimprovavel                                   |
-| Educação / Education               | https://youtube.com/@conta.me_uma_historia                                 |
-| Entretenimento / Entertainment               | [https://youtube.com/@conta.me_uma_historia ](https://www.youtube.com/@CineblogPt)         |
-| Diário em Video / Video Blog               | https://www.youtube.com/@joana_perez         |
-| Economia | [Bolso Blindado](https://www.youtube.com/@BolsoBlindado) | >18 |
-| História | [História de Portugal](https://www.youtube.com/@historiadeportugaljhs3389) | Qualquer idade |
-| Educação / Education | [ACP Automóvel Club de Portugal](https://www.youtube.com/c/ACPAutom%C3%B3velClubdePortugal) | >18 |
-| Educação / Education | [Learn European Portuguese](https://www.youtube.com/@learneuropeanportuguese) | N/A |
-| Educação / Education | [Mia Esmeriz Academy](https://www.youtube.com/@MiaEsmerizAcademy) | N/A |
-| Educação / Education | [Portuguese with Carla](https://www.youtube.com/@portuguesewithcarla/videos) | N/A |
-| Finanças / Finance | [Autoridade Tributária Aduaneira](https://www.youtube.com/@AutoridadeTributariaAduaneira) | >18 |
-| Notícias / News | [Observador Pt](https://www.youtube.com/@ObservadorPt) | >18 |
-| Culinária / Culinary | [Gastropico](https://www.youtube.com/@gastropico) | N/A |
-| Tecnologia /Technology | [Miguel Pinto Ferreira](https://www.youtube.com/@MiguelPintoFerreira) | N/A |
+| Compreensível / Comprehensible Input | [TheSoundsOfPortuguese](https://www.youtube.com/c/TheSoundsofPortuguese)                                                |                                   |
+| Livros para crianças / Books, For kids | [Livraria Aqui Há Gato](https://youtube.com/@livrariaaquihagato?feature=shared)                                        |                                   |
+| Ensino / Teaching                    | [Teaching Channel](https://www.youtube.com/channel/UCb0zJhS1C8QK3fzcZdU0Xkw)                                           |                                   |
+| Ensino / Teaching                    | [Portuguesepedia](https://youtube.com/@portuguesepedia?si=U3KAcTA9W4bt-I4o)                                            |                                   |
+| Ensino / Teaching                    | [Simpleton Portuguese](https://youtube.com/@SimpletonPortuguese?si=dFghYsbUV_cmfJdx)                                   |                                   |
+| Compreensível / Comprehensible Input | [Portuguese With Leo](https://www.youtube.com/@PortugueseWithLeo)                                                      |                                   |
+| Compreensível / Comprehensible Input | [Portuguese with Carla](https://www.youtube.com/@portuguesewithcarla)                                                  |                                   |
+| DIY, para crianças / DIY, for kids   | [Tubalatudo](https://youtube.com/@Tubalatudo?si=Km_E2vVtKzH7Ywvl)                                                     |                                   |
+| Compreensível / Comprehensible Input | [C Portuguese](https://youtube.com/@cportuguese?si=i3MV8ljKvDdnetjW)                                                   |                                   |
+| Audiolivros, Livros para crianças / Audiobooks, Books, For kids | [Biblioteca Municipal de Castro](https://www.youtube.com/@bibliotecamunicipaldecastr9327/videos) |                                   |
+| Ensino / Teaching                    | [The Language Unschool](https://youtube.com/@thelanguageunschool?si=3C8ow7aRuR0FyBzU)                                  |                                   |
+| Comédia / Comedy                     | [Dário Guerreiro](https://youtube.com/@DarioGuerreiro?si=i0PniLuSt6fXeEh2)                                             |                                   |
+| Ensino, Psicologia / Teaching, Psychology | [Psicologia Também é Ciência](https://youtube.com/@Psicologiatambemeciencia?si=LcW_PtmjyJPPPTQ0)                         |                                   |
+| Reações, Jogos / Reactions, Video Games | [Clips do Wuant](https://youtube.com/@clipsdowuant?si=muihVTSTigdkokeQ)                                                |                                   |
+| Jogos, GeoGuessr / Gameplay, GeoGuessr | [Geo Ribeirete PT](https://youtube.com/@GeoRibeiretept?si=M2uZK0kiN-YBsHR4)                                            |                                   |
+| Viagens, Documentários / Travel, Documentaries | [Andamente](https://youtube.com/@Andamente?si=VYvHt1MZuI-Vc66y)                                                        |                                   |
+| Viagens / Travel                     | [Follow the Sun Travel](https://youtube.com/@FollowtheSunTravel?si=H0HZEdHIDihkT_oP)                                   |                                   |
+| Viagens / Travel                     | [Team Pés Rotos](https://youtube.com/@TeamPesRotos?si=ZlCm5jtDAmPv7FKX)                                                |                                   |
+| Tecnologia, Unboxings / Technology, Unboxings | [Clips Bernardo Almeida](https://youtube.com/@ClipsBernardoAlmeida?si=c8wvvcPyVtNObe__)                                 |                                   |
+| Ensino, Fonética / Teaching, Phonetics | [Gabriel Albuquerque](https://youtube.com/@gabrielalbuquerque-portuga3338?si=6KThBvNDtXQN7zsc)                         |                                   |
+| Entrevistas / Interviews             | [Josef Bernardo](https://youtube.com/@josefbernardo.?si=LRhpRRRMiZy_GNn8)                                              |                                   |
+| Jogos / Video Games                  | [Ric Fazeres](https://youtube.com/@RicFazeres?si=r0ynaTa8iDEWNZUI)                                                     |                                   |
+| Viagens, Entrevistas / Travel, Interviews | [De Mochila às Costas](https://youtube.com/@DEMOCHILAASCOSTAS?si=qUkWMXKFjxQRo2vK)                                      |                                   |
+| Comédia / Comedy                     | [CC Vilhena](https://youtube.com/@ccvilhena?si=u6knKbzXtDWSu2bW)                                                       |                                   |
+| Reações / Reactions                  | [Os Primos Boy](https://youtube.com/@OSPRIMOSBOY?si=UbGtQ8AXDl949ND2)                                                  |                                   |
+| Notícias / News                      | [Alto Minho TV](https://www.youtube.com/@altominhotv/videos)                                                           |                                   |
+| Viagens / Travel                     | [Boleias da Marta](https://youtube.com/@BoleiasdaMarta?si=yuwkZZA0KBXIP_fx)                                            |                                   |
+| Comédia / Comedy                     | [Olha o Tiago](https://www.youtube.com/@olhaotiago/videos)                                                             |                                   |
+| Cultura Pop, Comédia / Pop Culture, Comedy | [Chimpas Brito](https://www.youtube.com/@chimpasbrito/videos)                                                           |                                   |
+| Podcast, Música / Podcast, Music     | [Rádio Comercial](https://www.youtube.com/@Radiocomercial)                                                             |                                   |
+| Podcast                              | [Conversas de Miguel](https://www.youtube.com/@ConversasdeMiguel)                                                      |                                   |
+| Podcast                              | [Lara Moniz](https://www.youtube.com/@laramoniz/videos)                                                                |                                   |
+| Jogos / Gameplay                     | [Remedy Joga](https://www.youtube.com/@RemedyJoga/videos)                                                              |                                   |
+| Entrevistas, Comédia / Interviews, Comedy | [Pierre Zago](https://youtube.com/@PierreZago?si=ZFfLX9Zt8hKTa9jj)                                                     |                                   |
+| Vlog, Podcast, Fitness               | [Dicas do Salgueiro](https://youtube.com/@DicasdoSalgueiro?si=wey22eevi8Al-ZUN)                                        |                                   |
+| Documentários, Podcast / Documentaries, Podcast | [Velho Amigo Podcast](https://youtube.com/@velhoamigo.podcast?si=ibkOQBNhxT2caD0T)                                      |                                   |
+| Entrevistas, Comédia / Interviews, Comedy | [Guilherme Geirinhas](https://youtube.com/@GuilhermeGeirinhas?si=9ltPxY8C_zKDgHnz)                                      |                                   |
+| Vida nos Açores, Infotenimento, História / Life in Azores, Infotainment, History | [Hel Filme](https://www.youtube.com/@helfimed/videos)                                              |                                   |
+| Podcast, Comédia / Podcast, Comedy   | [Raminhos](https://www.youtube.com/@raminhos/videos)                                                                   |                                   |
+| Música / Music                       | [Plutónio Channel](https://www.youtube.com/@PlutonioChannel)                                                           |                                   |
+| Entretenimento / Entertainment       | [Joana Perez](https://www.youtube.com/@joana_perez)                                                                    |                                   |
+| Entretenimento / Entertainment       | [Cineblog PT](https://www.youtube.com/@cineblogpt)                                                                     |                                   |
+| Entretenimento / Entertainment       | [RTP ZigZag](https://www.youtube.com/@rtpzigzag)                                                                       |                                   |
+| Educação / Education                 | [Rádio Comercial](https://www.youtube.com/@Radiocomercial)                                                             |                                   |
+| Entretenimento / Entertainment       | [RTP](https://www.youtube.com/@rtp)                                                                                    |                                   |
+| História / History                   | [História de Portugal](https://www.youtube.com/@historiadeportugaljhs3389)                                             |                                   |
+| Entretenimento / Entertainment       | [Canal Panda Portugal](https://www.youtube.com/@CanalPandaPortugal)                                                    |                                   |
+| Educação / Education                 | [Math Gurl](https://youtube.com/@MathGurl)                                                                             |                                   |
+| Educação / Education                 | [Portuguese With Leo](https://youtube.com/@PortugueseWithLeo)                                                          |                                   |
+| Educação / Education                 | [Khan Academy Portugal](https://youtube.com/@KhanAcademyPortugal)                                                      |                                   |
+| Educação / Education                 | [A Sala do Girassol](https://youtube.com/@AsaladoGirassol)                                                             |                                   |
+| Educação / Education                 | [Simão Super Coelho](https://youtube.com/@SimaoSuperCoelho)                                                            |                                   |
+| Música / Music                       | [Tu Cantar Música Infantil](https://youtube.com/@TucantarMusicaInfantil)                                               |                                   |
+| Jogos / Gaming                       | [NETUP](https://youtube.com/@_NETUP)                                                                                   |                                   |
+| Culinária / Culinary                 | [Tugana Cozinha](https://youtube.com/@TuganaCozinha)                                                                   |                                   |
+| Culinária / Culinary                 | [Receitas do Paraíso](https://youtube.com/@ReceitasdoParaiso)                                                          |                                   |
+| Culinária / Culinary                 | [Chefe Jamon](https://youtube.com/@ChefeJamon)                                                                         |                                   |
+| Desporto / Sports                    | [Bruno Marinho](https://youtube.com/@BrunoMarinho)                                                                     |                                   |
+| Desporto / Sports                    | [Projeto Pedal](https://youtube.com/@ProjetoPedal)                                                                     |                                   |
+| Tecnologia / Technology              | [Jota Pombo](https://youtube.com/@JotaPombo)                                                                           |                                   |
+| Comédia / Comedy                     | [Classe Média Baixa](https://youtube.com/@ClasseMediaBaixa)                                                            |                                   |
+| Notícias / News                      | [Fala Portugal](https://youtube.com/@FalaPortugal)                                                                     |                                   |
+| Desporto / Sports                    | [O Ciclista Improvável](https://youtube.com/@ociclistaimprovavel)                                                      |                                   |
+| Educação / Education                 | [Conta-me uma História](https://youtube.com/@conta.me_uma_historia)                                                    |                                   |
+| Economia / Finance                   | [Bolso Blindado](https://www.youtube.com/@BolsoBlindado)                                                               | >18                               |
+| História / History                   | [História de Portugal](https://www.youtube.com/@historiadeportugaljhs3389)                                             | Qualquer idade                    |
+| Educação / Education                 | [ACP Automóvel Club de Portugal](https://www.youtube.com/c/ACPAutom%C3%B3velClubdePortugal)                            | >18                               |
+| Educação / Education                 | [Learn European Portuguese](https://www.youtube.com/@learneuropeanportuguese)                                          | N/A                               |
+| Educação / Education                 | [Mia Esmeriz Academy](https://www.youtube.com/@MiaEsmerizAcademy)                                                      | N/A                               |
+| Finanças / Finance                   | [Autoridade Tributária Aduaneira](https://www.youtube.com/@AutoridadeTributariaAduaneira)                              | >18                               |
+| Notícias / News                      | [Observador Pt](https://www.youtube.com/@ObservadorPt)                                                                 | >18                               |
+| Culinária / Culinary                 | [Gastropico](https://www.youtube.com/@gastropico)                                                                      | N/A                               |
+| Tecnologia / Technology              | [Miguel Pinto Ferreira](https://www.youtube.com/@MiguelPintoFerreira)                                                  | N/A                               |
+
 <br>
 
 <br>
