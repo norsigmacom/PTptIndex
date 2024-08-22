@@ -76,6 +76,8 @@ a pedido de muitas familias segue uma lista de conteudos youtube seguros para to
 | Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
 | Educação / Education               | https://youtube.com/@conta.me_uma_historia                                 |
 | Educação / Education               | https://www.youtube.com/c/OsHer%C3%B3isdaCidadePortugu%C3%AAs |
+| Educação / Education               | https://www.youtube.com/@CanaldaLena |
+
 
                                
 
