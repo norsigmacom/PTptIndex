@@ -27,7 +27,6 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Ensino / Teaching                    | [The Language Unschool](https://youtube.com/@thelanguageunschool?si=3C8ow7aRuR0FyBzU)                                  |                                   |
 | Comédia / Comedy                     | [Dário Guerreiro](https://youtube.com/@DarioGuerreiro?si=i0PniLuSt6fXeEh2)                                             |                                   |
 | Ensino, Psicologia / Teaching, Psychology | [Psicologia Também é Ciência](https://youtube.com/@Psicologiatambemeciencia?si=LcW_PtmjyJPPPTQ0)                         |                                   |
-| Reações, Jogos / Reactions, Video Games | [Clips do Wuant](https://youtube.com/@clipsdowuant?si=muihVTSTigdkokeQ)                                                |                                   |
 | Jogos, GeoGuessr / Gameplay, GeoGuessr | [Geo Ribeirete PT](https://youtube.com/@GeoRibeiretept?si=M2uZK0kiN-YBsHR4)                                            |                                   |
 | Viagens, Documentários / Travel, Documentaries | [Andamente](https://youtube.com/@Andamente?si=VYvHt1MZuI-Vc66y)                                                        |                                   |
 | Viagens / Travel                     | [Follow the Sun Travel](https://youtube.com/@FollowtheSunTravel?si=H0HZEdHIDihkT_oP)                                   |                                   |
