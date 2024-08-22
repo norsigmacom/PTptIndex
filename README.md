@@ -40,7 +40,18 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Notícias / News                | [https://youtube.com/@FalaPortugal](https://youtube.com/@FalaPortugal)                                   |
 | Desporto / Sports                  | https://youtube.com/@ociclistaimprovavel                                   |
 | Educação / Education               | https://youtube.com/@conta.me_uma_historia                                 |
-
+| Entretenimento / Entertainment               | [https://youtube.com/@conta.me_uma_historia ](https://www.youtube.com/@CineblogPt)         |
+| Diário em Video / Video Blog               | https://www.youtube.com/@joana_perez         |
+| Economia | [Bolso Blindado](https://www.youtube.com/@BolsoBlindado) | >18 |
+| História | [História de Portugal](https://www.youtube.com/@historiadeportugaljhs3389) | Qualquer idade |
+| Educação / Education | [ACP Automóvel Club de Portugal](https://www.youtube.com/c/ACPAutom%C3%B3velClubdePortugal) | >18 |
+| Educação / Education | [Learn European Portuguese](https://www.youtube.com/@learneuropeanportuguese) | N/A |
+| Educação / Education | [Mia Esmeriz Academy](https://www.youtube.com/@MiaEsmerizAcademy) | N/A |
+| Educação / Education | [Portuguese with Carla](https://www.youtube.com/@portuguesewithcarla/videos) | N/A |
+| Finanças / Finance | [Autoridade Tributária Aduaneira](https://www.youtube.com/@AutoridadeTributariaAduaneira) | >18 |
+| Notícias / News | [Observador Pt](https://www.youtube.com/@ObservadorPt) | >18 |
+| Culinária / Culinary | [Gastropico](https://www.youtube.com/@gastropico) | N/A |
+| Tecnologia /Technology | [Miguel Pinto Ferreira](https://www.youtube.com/@MiguelPintoFerreira) | N/A |
 <br>
 
 <br>
@@ -64,6 +75,8 @@ a pedido de muitas familias segue uma lista de conteudos youtube seguros para to
 | Educação / Education           | [https://youtube.com/@AsaladoGirassol](https://youtube.com/@AsaladoGirassol)                             |                                   |
 | Educação / Education           | [https://youtube.com/@SimaoSuperCoelho](https://youtube.com/@SimaoSuperCoelho)                           |                                   |
 | Educação / Education               | https://youtube.com/@conta.me_uma_historia                                 |
+| Educação / Education               | https://www.youtube.com/c/OsHer%C3%B3isdaCidadePortugu%C3%AAs |
+
                                
 
 <br>
