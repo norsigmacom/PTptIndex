@@ -86,7 +86,9 @@ Lista de conteúdo original para treinar a língua Portuguesa Europeia (PT-PT) <
 | Notícias / News                      | [Observador Pt](https://www.youtube.com/@ObservadorPt)                                                                 | >18                               |
 | Culinária / Culinary                 | [Gastropico](https://www.youtube.com/@gastropico)                                                                      | N/A                               |
 | Tecnologia / Technology              | [Miguel Pinto Ferreira](https://www.youtube.com/@MiguelPintoFerreira)                                                  | N/A                               |
-
+| Tecnologia / Technology              | https://www.youtube.com/@undre                                                  | N/A                               |
+| Teste de Produto / Product Tests              | https://www.youtube.com/@DecoProteste   | N/A                               |
+| Entretenimento / Entertainment              | https://www.youtube.com/@Tji   | N/A                               |
 <br>
 
 <br>
